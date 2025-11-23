@@ -6,7 +6,7 @@ Projects #
 
 1. Single Page CV
 
-A professional, responsive CV built using only semantic HTML and essential meta tags (SEO/OG).
+A simnple single page CV built using only semantic HTML and essential meta tags (SEO/OG).
 
 [View CV](https://wysemantalal.github.io/roadmap.sh-projects/Frontend%20Projects/single-page-cv/) |
 Project URL - [Single-page-cv](https://roadmap.sh/projects/single-page-cv)
