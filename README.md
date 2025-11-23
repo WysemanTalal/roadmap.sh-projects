@@ -8,7 +8,7 @@ Projects #
 
 A professional, responsive CV built using only semantic HTML and essential meta tags (SEO/OG).
 
-[View CV](https://wysemantalal.github.io/roadmap.sh-projects/Frontend%20Projects/single-page-cv/)<br>
+[View CV](https://wysemantalal.github.io/roadmap.sh-projects/Frontend%20Projects/single-page-cv/) |
 Project URL - [Single-page-cv](https://roadmap.sh/projects/single-page-cv)
 
 All completed projects are organized into subfolders within the /Frontend Projects/ directory.
