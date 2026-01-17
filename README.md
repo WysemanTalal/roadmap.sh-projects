@@ -18,5 +18,5 @@ Instructions on how to run or view the project.
 
 | Project Name | Project URL | Live Preview |
 | :--- | :--- | :--- |
-| Single Page CV | [View Code](https://roadmap.sh/projects/single-page-cv) | [Live Demo](https://wysemantalal.github.io/roadmap.sh-projects/frontend/01-single-page-cv/) |
-| Basic html website | [View Code]() | [Live Demo]() |
+| Single Page CV | [View Project](https://roadmap.sh/projects/single-page-cv) | [Live Demo](https://wysemantalal.github.io/roadmap.sh-projects/frontend/01-single-page-cv/) |
+| Basic html website | [View Project](https://roadmap.sh/projects/basic-html-website) | [Live Demo](https://wysemantalal.github.io/roadmap.sh-projects/frontend/02-basic-html-website/) |
